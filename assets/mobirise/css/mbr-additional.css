@@ -1,111 +1,9 @@
-/* cyrillic */
-@font-face {
-  font-family: 'Jost';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zUtBhPNqw73oHt5D4hXRAy7lRq.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Jost';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zUtBhPNqw73oHt7j4hXRAy7lRq.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Jost';
-  font-style: italic;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zUtBhPNqw73oHt4D4hXRAy7g.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Jost';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zUtBhPNqw73oHt5D4hXRAy7lRq.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Jost';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zUtBhPNqw73oHt7j4hXRAy7lRq.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Jost';
-  font-style: italic;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zUtBhPNqw73oHt4D4hXRAy7g.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Jost';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zatBhPNqw73oDd4jQmfxIC7w.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Jost';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zatBhPNqw73ord4jQmfxIC7w.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Jost';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zatBhPNqw73oTd4jQmfxI.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* cyrillic */
-@font-face {
-  font-family: 'Jost';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zatBhPNqw73oDd4jQmfxIC7w.woff2) format('woff2');
-  unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Jost';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zatBhPNqw73ord4jQmfxIC7w.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Jost';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/jost/v6/92zatBhPNqw73oTd4jQmfxI.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
+@import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
+
+
+
+
+
 body {
   font-family: Jost;
 }
@@ -1164,7 +1062,7 @@ a {
 }
 .cid-ssCaNLjLOp {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-ssCaNLjLOp .item {
@@ -1413,10 +1311,261 @@ a {
 .cid-ssCaNLjLOp H6 {
   text-align: center;
 }
+.cid-ssCvHmiCfJ {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-ssCvHmiCfJ .item {
+  padding-bottom: 2rem;
+}
+.cid-ssCvHmiCfJ .item-wrapper {
+  position: relative;
+}
+.cid-ssCvHmiCfJ .item-wrapper .icon-wrapper {
+  pointer-events: none;
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  font-size: 22px;
+  left: 50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  opacity: 0;
+  color: #ffffff;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #1b1b1b;
+  transition: 0.2s;
+}
+.cid-ssCvHmiCfJ .item-wrapper:hover .icon-wrapper {
+  opacity: 0.7;
+}
+.cid-ssCvHmiCfJ .carousel-control,
+.cid-ssCvHmiCfJ .close {
+  background: #1b1b1b;
+}
+.cid-ssCvHmiCfJ .carousel-control-prev {
+  margin-left: 2.5rem;
+}
+.cid-ssCvHmiCfJ .carousel-control-prev span {
+  margin-right: 5px;
+}
+.cid-ssCvHmiCfJ .carousel-control-next {
+  margin-right: 2.5rem;
+}
+.cid-ssCvHmiCfJ .carousel-control-next span {
+  margin-left: 5px;
+}
+.cid-ssCvHmiCfJ .close {
+  position: fixed;
+  opacity: 0.5;
+  font-size: 22px;
+  font-weight: 300;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  color: #fff;
+  top: 2.5rem;
+  right: 2.5rem;
+  border: 2px solid #fff;
+  text-shadow: none;
+  z-index: 5;
+  transition: opacity 0.3s ease;
+  font-family: 'Moririse2';
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.cid-ssCvHmiCfJ .close::before {
+  content: '\e91a';
+}
+.cid-ssCvHmiCfJ .close:hover {
+  opacity: 1;
+  background: #000;
+  color: #fff;
+}
+.cid-ssCvHmiCfJ .carousel-control {
+  display: flex;
+  top: 50%;
+  width: 60px;
+  height: 60px;
+  margin-top: -1.5rem;
+  font-size: 22px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  transition: all 0.3s;
+}
+.cid-ssCvHmiCfJ .carousel-control.carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-ssCvHmiCfJ .carousel-control.carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+@media (max-width: 767px) {
+  .cid-ssCvHmiCfJ .carousel-control {
+    top: auto;
+    bottom: 1rem;
+  }
+}
+.cid-ssCvHmiCfJ .carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 3px;
+}
+.cid-ssCvHmiCfJ .carousel-indicators li {
+  max-width: 15px;
+  height: 15px;
+  width: 15px;
+  max-height: 15px;
+  margin: 3px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 2px solid #fff;
+  border-radius: 50%;
+  opacity: 0.5;
+  transition: all 0.3s;
+}
+.cid-ssCvHmiCfJ .carousel-indicators li.active,
+.cid-ssCvHmiCfJ .carousel-indicators li:hover {
+  opacity: 0.9;
+}
+.cid-ssCvHmiCfJ .carousel-indicators li::after,
+.cid-ssCvHmiCfJ .carousel-indicators li::before {
+  content: none;
+}
+.cid-ssCvHmiCfJ .carousel-indicators.ie-fix {
+  left: 50%;
+  display: block;
+  width: 60%;
+  margin-left: -30%;
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .cid-ssCvHmiCfJ .carousel-indicators {
+    display: none !important;
+  }
+}
+@media (max-width: 991px) {
+  .cid-ssCvHmiCfJ .carousel-indicators {
+    margin-bottom: 3.625rem !important;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ssCvHmiCfJ .carousel-indicators {
+    display: none;
+  }
+}
+.cid-ssCvHmiCfJ .carousel-inner {
+  display: flex;
+  align-items: center;
+}
+.cid-ssCvHmiCfJ .carousel-inner > .active {
+  display: block;
+}
+.cid-ssCvHmiCfJ .carousel-control.left {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-ssCvHmiCfJ .carousel-control.right {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-ssCvHmiCfJ .carousel-control:hover {
+  background: #1b1b1b;
+  color: #fff;
+  opacity: 1;
+}
+@media (max-width: 768px) {
+  .cid-ssCvHmiCfJ .carousel-control,
+  .cid-ssCvHmiCfJ .carousel-indicators,
+  .cid-ssCvHmiCfJ .modal .close {
+    position: fixed;
+  }
+}
+@media (max-width: 767px) {
+  .cid-ssCvHmiCfJ .mbr-slider .carousel-control {
+    top: auto;
+    bottom: 20px;
+  }
+  .cid-ssCvHmiCfJ .mbr-slider > .container .carousel-control {
+    margin-bottom: 0;
+  }
+}
+.cid-ssCvHmiCfJ .carousel-indicators .active,
+.cid-ssCvHmiCfJ .carousel-indicators li {
+  width: 7px;
+  height: 7px;
+  margin: 3px;
+  background: #000000;
+  opacity: 0.5;
+  border: 4px solid #000000;
+}
+.cid-ssCvHmiCfJ .carousel-indicators .active {
+  background: #fff;
+}
+.cid-ssCvHmiCfJ .carousel-indicators li {
+  max-width: 15px;
+  max-height: 15px;
+  border-radius: 50%;
+}
+.cid-ssCvHmiCfJ .modal {
+  padding-left: 0 !important;
+  position: fixed;
+  overflow: hidden;
+  padding-right: 0 !important;
+}
+.cid-ssCvHmiCfJ .modal-dialog {
+  margin: 0 auto;
+  max-width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-ssCvHmiCfJ .modal-content {
+  border-radius: 0;
+  border: none;
+  background: transparent;
+}
+.cid-ssCvHmiCfJ .modal-body {
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+.cid-ssCvHmiCfJ .modal-body img {
+  width: 100%;
+  object-fit: contain;
+  max-height: calc(100vh - 1.75rem);
+}
+.cid-ssCvHmiCfJ .carousel {
+  width: 100%;
+}
+.cid-ssCvHmiCfJ .modal-backdrop.in {
+  opacity: 0.8;
+}
+.cid-ssCvHmiCfJ .modal.fade .modal-dialog {
+  transition: margin-top 0.3s ease-out;
+}
+.cid-ssCvHmiCfJ .modal.fade .modal-dialog,
+.cid-ssCvHmiCfJ .modal.in .modal-dialog {
+  transform: none;
+}
+.cid-ssCvHmiCfJ .mbr-gallery .item-wrapper {
+  cursor: pointer;
+}
+.cid-ssCvHmiCfJ H6 {
+  text-align: center;
+}
 .cid-ssBRD5xJXT {
   padding-top: 6rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/mbr-2.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1282.jpg");
 }
 .cid-ssBRD5xJXT .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
